@@ -1,5 +1,6 @@
 # 레포지토리 명
-## Game-LogData-Pipeline
+
+### Game-LogData-Pipeline
 
 ## 목차
 1. [프로젝트 개요](#프로젝트-개요)
